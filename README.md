@@ -1,4 +1,4 @@
-# pod-pulse
+# pod-pulse 💗
 
 A systemd-free healthcheck scheduler for Podman containers.
 
